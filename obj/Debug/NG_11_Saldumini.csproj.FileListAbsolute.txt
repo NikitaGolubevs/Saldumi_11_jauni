@@ -1,0 +1,10 @@
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\obj\Debug\NG_11_Saldumini.csprojAssemblyReference.cache
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\obj\Debug\NG_11_Saldumini.Form1.resources
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\obj\Debug\NG_11_Saldumini.Properties.Resources.resources
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\obj\Debug\NG_11_Saldumini.csproj.GenerateResource.cache
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\obj\Debug\NG_11_Saldumini.csproj.CoreCompileInputs.cache
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\bin\Debug\NG_11_Saldumini.exe.config
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\bin\Debug\NG_11_Saldumini.exe
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\bin\Debug\NG_11_Saldumini.pdb
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\obj\Debug\NG_11_Saldumini.exe
+Z:\11.G\NG_11_Saldumini\NG_11_Saldumini\obj\Debug\NG_11_Saldumini.pdb
